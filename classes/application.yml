@@ -1,0 +1,22 @@
+spring:
+  banner:
+    location: banner.txt
+  datasource:
+    url: jdbc:postgresql://localhost:5432/simple_crud?currentSchema=crud_schema
+    username: postgres
+    password: 777
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    open-in-view: true
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+#springdoc:
+#  api-docs:
+#    path: /api/docs
+#  swagger-ui:
+#    operations-sorter: method
+#    path: /swagger-ui

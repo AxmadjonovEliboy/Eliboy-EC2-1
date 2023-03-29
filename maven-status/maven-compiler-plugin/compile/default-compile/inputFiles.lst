@@ -1,0 +1,16 @@
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/book/Book.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/user/AuthRepository.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/user/AuthDto.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/SimpleCrudApplication.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/book/BookController.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/user/AuthUserController.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/rest_config/ApiResult.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/rest_config/ErrorData.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/user/AuthService.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/book/BookRepository.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/Auditable.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/config/WebConfig.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/book/BookUpdateDto.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/user/AuthUser.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/book/BookDto.java
+/home/jarvis/Eliboy/pdp/GIT/kdbProject/simple_crud/src/main/java/com/example/simple_crud/entity/book/BookService.java
